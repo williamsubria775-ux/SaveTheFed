@@ -556,7 +556,7 @@ md(
     <div class="hero-grid">
 
       <div style="position:relative; z-index:3;">
-        <div class="pill">🏛️ The Fed is a guardrail, it is not a toy</div>
+        <div class="pill">🏛️ The Fed is a guardrail of American prosperity</div>
         <div class="h1">If politicians control the Fed, your money gets weaker.</div>
         <div class="subhead">
           When leaders pressure the Fed to print, cut, and cover deficits, markets notice, prices move, and working people pay.
@@ -1289,8 +1289,7 @@ with body:
   <div class="wrap">
     <div class="callout">
       <div class="small">
-        If you want to name names, add them in the ACCOUNTABILITY list at the top of this file.
-        Keep it factual, attach proof text you will stand behind.
+        
       </div>
     </div>
   </div>
