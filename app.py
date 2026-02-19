@@ -571,9 +571,7 @@ md(
 
         <div style="height:14px;"></div>
         <div class="small">
-          This is not a prediction engine.
-          It is a map built from history.
-          It helps you see risk before it hits your paycheck.
+          This helps you see risk before it hits your paycheck.
         </div>
       </div>
 
